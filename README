@@ -1,0 +1,8 @@
+﻿This KSP Plugin blocks ModStatistics by Majiir from running. 
+
+This is necessary as: 
+There is no way to opt-out from ModStatistics trivially (requires editing a config file).
+The plugin is bundled along with other software.
+The plugin defaults to opt-in.
+
+Based on this, ModStatistics resembles spyware and a plugin to block it from running seems warranted.

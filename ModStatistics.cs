@@ -33,7 +33,7 @@ namespace ModStatistics
             if (maxValue == int.MaxValue)
             {
                 // we can't set MaxValue + 1, assume ModStatistics has already started
-                PopupDialog.SpawnPopupDialog("StillBetterThanSpyware", "WARNING WARNING WARNING\nModStatistics already started. Your personal information may be at risk.", "OK", false, HighLogic.Skin);
+                PopupDialog.SpawnPopupDialog("StillBetterThanSpyware", "WARNING WARNING WARNING\nModStatistics already started. If you don't want to provide pseudoanonymous statistics to ModStatistics check in at the StillBetterThanSpyware thread for assistance.", "OK", false, HighLogic.Skin);
             }
             else
             {
